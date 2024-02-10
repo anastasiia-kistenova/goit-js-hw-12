@@ -159,7 +159,7 @@
 }
 
 
-.btn-load {
+.load-btn {
   display: inline-flex;
     padding: 8px 16px;
     justify-content: center;
@@ -181,7 +181,7 @@
   
   }
   
-  .btn-load:hover {
+  .load-btn:hover {
     background-color: #6C8CFF;
     border: 1px solid #6C8CFF;
   
